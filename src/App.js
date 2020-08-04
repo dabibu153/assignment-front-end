@@ -11,7 +11,7 @@ export default function App() {
   return (
     <div>
       <form
-        action="http://localhost:5000"
+        action="https://backend-dabibu.herokuapp.com/"
         method="POST"
         enctype="multipart/form-data"
       >
